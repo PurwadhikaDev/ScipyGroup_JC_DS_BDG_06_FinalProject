@@ -19,3 +19,6 @@ In this project we will create a classification model for Portugal Bank in order
 - Part C    : Conclusion & Recommendation
     - Model Conclusion (Problem 1)
     - Recommendation for Future Campaigns (Problem 2)
+
+# NOTE: 
+In this notebook, only the best processes that are included. However, we have tried different processes in feature engineering, preprocessing, and resampling method to get the best model.
